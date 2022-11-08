@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "title": "flight to canada",
+      "time": "1pm",
+      "price": 26000,
+      "date": "26-06-2022"
+    },
+    {
+      "id": 2,
+      "title": "flight to Australia",
+      "time": "11am",
+      "price": 30000,
+      "date": "20-07-2022"
+    },
+    {
+      "id": 3,
+      "title": "Flight to London",
+      "time": "12:30pm",
+      "price": 42000,
+      "date": "23-04-22"
+    },
+    {
+      "id": 4,
+      "title": "Flight to Abuja",
+      "time": "10:00am",
+      "price": 12000,
+      "date": "02-08-22"
+    }
+  ]
